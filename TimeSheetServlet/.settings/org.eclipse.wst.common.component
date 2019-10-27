@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="TimeSheetServlet">
+        <wb-resource deploy-path="/" source-path="/Web" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="TimeSheetServlet"/>
+        <property name="java-output-path" value="/TimeSheetServlet/build/classes"/>
+    </wb-module>
+</project-modules>
